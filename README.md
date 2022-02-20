@@ -1,2 +1,2 @@
-# openseea_explorer
-OPensea NFT Explorer
+# opensea_explorer
+OpenSea NFT Explorer
