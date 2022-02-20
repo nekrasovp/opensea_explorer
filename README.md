@@ -13,3 +13,4 @@ python fetch.py 'COLLECTION_NAME'
 ```sh
 streamlit run explorer.py
 ```
+![explorer](explorer.jpg)
